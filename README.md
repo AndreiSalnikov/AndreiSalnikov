@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400"/>
 </div>
-### Hi there 👋
+ Hi there 👋
 
 <!--
 **AndreiSalnikov/AndreiSalnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
