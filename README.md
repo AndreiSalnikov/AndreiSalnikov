@@ -1,9 +1,10 @@
 ###
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400"/>
+<div id="header" align="left">
+  Hi there 👋
 </div>
- Hi there 👋
 
+
+  ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&hide=stars,issues&theme=dracula&show_icons=true)
 <!--
 **AndreiSalnikov/AndreiSalnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
