@@ -48,12 +48,12 @@
 <picture>
 <source 
          height="150"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&locale=ru&card_width=350&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&locale=ru&card_width=330&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
   <source 
         height="150" 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&locale=ru&card_width=350"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&locale=ru&card_width=330"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact" />
