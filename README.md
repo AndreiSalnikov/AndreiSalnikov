@@ -75,7 +75,7 @@
 />
   <source 
          align="left" height="150" style="margin-right: 10px"
-        srcset="https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&show_icons=true&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20Github%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9&&hide=stars&theme=flag-india"
+        srcset="https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&show_icons=true&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20Github%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9&&hide=stars&theme=city_lights"
   media="(prefers-color-scheme: light)"
 />
 <!--   <source 
