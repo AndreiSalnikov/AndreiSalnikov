@@ -31,9 +31,10 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&hide=stars,issues&theme=dracula&show_icons=true&locale=ru">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&hide=stars,issues&theme=dracula&show_icons=true&locale=ru" />
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&hide=stars,issues&theme=dracula#gh-dark-mode-only&show_icons=true&locale=ru" />
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AndreiSalnikov&hide=stars,issues&theme=default#gh-light-mode-only&show_icons=true&locale=ru" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&theme=dracula#gh-dark-mode-only&locale=ru">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&theme=dracula&locale=ru">
   <img  height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSalnikov&layout=compact&theme=dracula#gh-dark-mode-only&locale=ru" />
 </a>
 </div>
