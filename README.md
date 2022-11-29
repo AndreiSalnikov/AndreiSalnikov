@@ -1,6 +1,6 @@
 ## Всем привет, меня зовут Андрей👋
 
-Я начинающий web-разработчик и в данный момент обчаюсь на курсе Яндекс.Практикум и нахожусь в поиске работы.
+Я начинающий web-разработчик, в данный момент обучаюсь на курсе Яндекс.Практикум, нахожусь в поиске работы.
 
 ### К чему я стремлюсь
 
@@ -19,11 +19,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="30" height="30"/>
 </p>
 
-### Социальные сети
+### Контакты
 
 <p>
 <a href="https://t.me/andrey_salnikov"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="HTML" height="28"></a>
-<a href="https://vk.com/id80297180"><img src="https://user-images.githubusercontent.com/2528627/199953526-9ed0c84c-5b7c-4239-ac55-4441c49d3f3b.png" alt="HTML" height="30"></a>
+<a href="ans762@mail.ru"><img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" alt="HTML" height="30"></a>
 </p>
 
 ### Статистика
