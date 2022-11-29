@@ -23,7 +23,7 @@
 
 <p>
 <a href="https://t.me/andrey_salnikov"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="HTML" height="28"></a>
-<a href="ans762@mail.ru"><img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" alt="HTML" height="30"></a>
+<a href="mailto:ans762@mail.ru"><img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" alt="HTML" height="30"></a>
 </p>
 
 ### Статистика
