@@ -40,7 +40,7 @@
 
 
 <a href="https://coderun.yandex.ru/seasons/first_2023/tracks/frontend/rating">![image](https://github.com/AndreiSalnikov/AndreiSalnikov/assets/62502803/c8d5de08-2a55-4241-a670-b88c0dccef6b)</a> </br>
-34 место в coderun по направлению фронтенд</br>
+34 место в первом сезоне coderun по направлению фронтенд</br>
 https://coderun.yandex.ru/seasons/first_2023/tracks/frontend/rating </br>
 
 
