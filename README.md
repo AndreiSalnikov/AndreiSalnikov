@@ -37,6 +37,9 @@
 
 ### Статистика
 ![image](https://www.codewars.com/users/AndreiSalnikov/badges/large)
+<a href="https://coderun.yandex.ru/seasons/first_2023/tracks/frontend/rating">![image](https://github.com/AndreiSalnikov/AndreiSalnikov/assets/62502803/c8d5de08-2a55-4241-a670-b88c0dccef6b)</a>
+
+
 
 <div>
 <picture >
